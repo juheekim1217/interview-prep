@@ -1,7 +1,7 @@
 # study
 
 
-Absolutely — here’s a **realistic, battle-tested technical interview prep plan** optimized for an **intermediate-level software developer** (like you) targeting roles in **Canada or North America**, where interviews often include:
+**realistic, battle-tested technical interview prep plan** optimized for an **intermediate-level software developer** (like you) targeting roles, where interviews often include:
 
 * **Coding (DSA + problem solving)**
 * **CS fundamentals (OS, DBMS, CN, OOP)**
