@@ -109,3 +109,117 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, got it — you're asking for **free resources to study core CS subjects** (not just DSA) for technical interviews. Here's a structured list by topic that covers what’s usually asked in **FAANG-style and system-level interviews**.
+
+---
+
+## ✅ **Core Computer Science Subjects for Interview Prep (Free Resources)**
+
+---
+
+### 🧠 1. **Operating Systems**
+
+**Topics:** Processes, Threads, Scheduling, Memory Management, Paging, Deadlocks, Synchronization
+🔗 **Free Resources:**
+
+* 📘 [Operating Systems - Neso Academy YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjRy3Gl2V9zB0a9D-MwBB5c) *(Best structured playlist)*
+* 📗 [GFG OS Notes](https://www.geeksforgeeks.org/operating-systems/) *(Great for review)*
+* 🧾 [CS50 Systems Track](https://cs50.harvard.edu/systems/) *(In-depth but advanced)*
+
+---
+
+### 🗄️ 2. **DBMS (Databases)**
+
+**Topics:** ACID, Transactions, Indexes, Normalization, Joins, SQL
+🔗 **Free Resources:**
+
+* 📘 [DBMS - Neso Academy YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjJZ3NL1PEaQbL1pEIo3UJd)
+* 📗 [GFG DBMS Notes](https://www.geeksforgeeks.org/dbms/)
+* 📊 [Mode SQL Tutorial](https://mode.com/sql-tutorial/) *(SQL hands-on practice)*
+
+---
+
+### 🌐 3. **Computer Networks**
+
+**Topics:** OSI Model, TCP/IP, HTTP/HTTPS, DNS, Routing, Congestion Control
+🔗 **Free Resources:**
+
+* 📘 [CN - Neso Academy YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULK3a5tBQUV)
+* 📗 [GFG CN Notes](https://www.geeksforgeeks.org/computer-network-tutorials/)
+* 🌍 [Computer Networking Crash Course (YouTube)](https://www.youtube.com/watch?v=qiQR5rTSshw)
+
+---
+
+### 🔧 4. **OOP / Software Engineering Principles**
+
+**Topics:** Inheritance, Polymorphism, SOLID, Design Patterns
+🔗 **Free Resources:**
+
+* 📘 [OOP - CodeBeauty YouTube](https://www.youtube.com/playlist?list=PLlsmxlJgn1Htb7Yx1fzEdv8VC5ECuHh4F)
+* 📚 [Refactoring Guru – OOP Concepts](https://refactoring.guru/design-patterns)
+* 🧠 [GFG OOP](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+
+---
+
+### ⚙️ 5. **System Design (Intro Level)**
+
+*(Not core CS but closely tied with SE interviews)*
+🔗 **Free Resources:**
+
+* 📘 [Gaurav Sen YouTube – System Design](https://www.youtube.com/c/GauravSen)
+* 📗 [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
+
+---
+
+### 🧾 6. **CS Theory (Optional for some roles)**
+
+**Topics:** Automata, Compiler Design, Operating System Internals, etc.
+🔗 **Free Resources:**
+
+* 📘 [Gate Smashers YouTube](https://www.youtube.com/c/GateSmashers) *(Full GATE-level courses)*
+* 📗 [GFG Theory Section](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+---
+
+## 🎁 Summary Table
+
+| Subject | YouTube       | Notes/Practice       |
+| ------- | ------------- | -------------------- |
+| OS      | Neso Academy  | GFG, CS50            |
+| DBMS    | Neso Academy  | GFG, Mode SQL        |
+| CN      | Neso Academy  | GFG                  |
+| OOP     | CodeBeauty    | Refactoring.Guru     |
+| SD      | Gaurav Sen    | System Design Primer |
+| Theory  | Gate Smashers | GFG                  |
+
+---
+
+Would you like this turned into a **daily Notion planner CSV** or printable PDF version?
+
+
+
+
+
+
+
+
