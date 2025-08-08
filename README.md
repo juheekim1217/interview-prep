@@ -141,7 +141,8 @@ Ah, got it — you're asking for **free resources to study core CS subjects** (n
 
 **Topics:** Processes, Threads, Scheduling, Memory Management, Paging, Deadlocks, Synchronization
 🔗 **Free Resources:**
-
+* 📗 [The Yellow Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) *(Great for review)*
+* 📗 [GFG OS Quick Review Notes](https://www.geeksforgeeks.org/operating-systems/last-minute-notes-operating-systems/#types-of-operating-system-os) *(Great for quick review with questions)*
 * 📘 [Operating Systems - Neso Academy YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjRy3Gl2V9zB0a9D-MwBB5c) *(Best structured playlist)*
 * 📗 [GFG OS Notes](https://www.geeksforgeeks.org/operating-systems/) *(Great for review)*
 * 🧾 [CS50 Systems Track](https://cs50.harvard.edu/systems/) *(In-depth but advanced)*
