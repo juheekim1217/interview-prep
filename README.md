@@ -143,7 +143,7 @@ Ah, got it — you're asking for **free resources to study core CS subjects** (n
 **Topics:** Processes, Threads, Scheduling, Memory Management, Paging, Deadlocks, Synchronization
 🔗 **Free Resources:**
 * 📗 [The Yellow Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) *(Great for review)*
-* 📗 [GFG OS Quick Review Notes](https://www.geeksforgeeks.org/operating-systems/last-minute-notes-operating-systems/#types-of-operating-system-os) *(Great for quick review with questions)*
+* 📗 [GFG OS Last Minute Notes](https://www.geeksforgeeks.org/operating-systems/last-minute-notes-operating-systems/#types-of-operating-system-os) *(Great for quick review with questions)*
 * 📘 [Operating Systems - Neso Academy YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjRy3Gl2V9zB0a9D-MwBB5c) *(Best structured playlist)*
 * 📗 [GFG OS Notes](https://www.geeksforgeeks.org/operating-systems/) *(Great for review)*
 * 🧾 [CS50 Systems Track](https://cs50.harvard.edu/systems/) *(In-depth but advanced)*
@@ -155,6 +155,7 @@ Ah, got it — you're asking for **free resources to study core CS subjects** (n
 **Topics:** ACID, Transactions, Indexes, Normalization, Joins, SQL
 🔗 **Free Resources:**
 
+* 📗 [GFG DBMS Last Minute Notes](https://www.geeksforgeeks.org/dbms/last-minute-notes-dbms/)
 * 📘 [DBMS - Neso Academy YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjJZ3NL1PEaQbL1pEIo3UJd)
 * 📗 [GFG DBMS Notes](https://www.geeksforgeeks.org/dbms/)
 * 📊 [Mode SQL Tutorial](https://mode.com/sql-tutorial/) *(SQL hands-on practice)*
@@ -165,7 +166,7 @@ Ah, got it — you're asking for **free resources to study core CS subjects** (n
 
 **Topics:** OSI Model, TCP/IP, HTTP/HTTPS, DNS, Routing, Congestion Control
 🔗 **Free Resources:**
-
+* 📗 [GFG CN Last Minute Notes](https://www.geeksforgeeks.org/computer-networks/last-minute-notes-computer-network/)
 * 📘 [CN - Neso Academy YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULK3a5tBQUV)
 * 📗 [GFG CN Notes](https://www.geeksforgeeks.org/computer-network-tutorials/)
 * 🌍 [Computer Networking Crash Course (YouTube)](https://www.youtube.com/watch?v=qiQR5rTSshw)
