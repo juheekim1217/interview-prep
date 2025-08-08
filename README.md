@@ -135,6 +135,7 @@ Ah, got it — you're asking for **free resources to study core CS subjects** (n
 
 ## ✅ **Core Computer Science Subjects for Interview Prep (Free Resources)**
 
+* 📗 [Core CS notes](https://workattech.github.io/core-cs-os-networks-dbms/) *(Core CS Notes resources)*
 ---
 
 ### 🧠 1. **Operating Systems**
